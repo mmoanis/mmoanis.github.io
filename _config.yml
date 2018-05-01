@@ -1,1 +1,25 @@
-theme: jekyll-theme-minimal
+highlighter: rouge
+markdown: kramdown
+
+permalink: /:title.html
+paginate: 5
+plugins: [jekyll-paginate]
+safe: true
+
+# Information
+title: Mohamed Moanis | Software Engineer
+name: Mohamed Moanis
+author: Mohamed Moanis
+description: Homepage
+
+url: https://mmoanis.github.io
+baseurl: /
+email: mohamed.moanis.ali@gmail.com
+github: mmoanis
+linkedin: mmoanis
+stackoverflow: users/5504460/mohamed-moanis
+skype: mohamed-moanis
+steam: mmoanis
+avatar: moanis.jpg
+
+#exclude: [vendor]
