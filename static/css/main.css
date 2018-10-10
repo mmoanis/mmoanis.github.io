@@ -16,7 +16,7 @@ img { max-width: 100%; vertical-align: middle; }
 /** Figures */
 figure > img { display: block; }
 
-.img-small { height: 35%; width: 35%; }
+.img-small { height: 25%; width: 25%; }
 
 figcaption { font-size: 14px; }
 
