@@ -7,9 +7,9 @@ plugins: [jekyll-paginate]
 safe: true
 
 # Information
-title: Mohamed Moanis | Software Engineer
-name: Mohamed Moanis
-author: Mohamed Moanis
+title: Mohamed Moanis Ali | Software Engineer
+name: Mohamed Moanis Ali
+author: Mohamed Moanis Ali
 description: Homepage
 
 google_analytics: UA-118569685-1
