@@ -7,12 +7,12 @@ plugins: [jekyll-paginate]
 safe: true
 
 # Information
-title: Mohamed | Software Engineer
-name: Mohamed Moanis
-author: Mohamed Moanis
+title:
+name: Mohamed
+author: Mohamed
 description: Homepage
 
-google_analytics: UA-118569685-1
+google_analytics: UA-169730360-1
 
 url: https://mmoanis.github.io
 baseurl: /
